@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishk0802" alt="kanishk0802" /></a> </p>
 
-- 🌱 I’m currently learning **MERN,**
+- 🌱 I’m currently learning **MERN, GraphQL**
 
 - 💬 Ask me about **react.js, redux**
 
